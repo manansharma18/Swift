@@ -14,6 +14,6 @@ let one: UInt8 = 1
 let twoThousandAndOne = twoThousand + UInt16(one)
   ```
 Because both sides of the addition are now of type UInt16, the addition is allowed. The output constant (twoThousandAndOne) is inferred to be of type UInt16, because it’s the sum of two UInt16 values.
-6. 
+6. @IBOutlet, is a connection from an Interface Builder user interface component – e.g. a UIButton – to a property in a view controller or other piece of Swift code.
 
 
